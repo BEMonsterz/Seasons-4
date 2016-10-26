@@ -2,6 +2,51 @@
   "stickers" : [
     {
       "filename" : "logothing.sticker"
+    },
+    {
+      "filename" : "blue_berry.sticker"
+    },
+    {
+      "filename" : "dark_orange_leaf.sticker"
+    },
+    {
+      "filename" : "fall_flowers.sticker"
+    },
+    {
+      "filename" : "logo_fall.sticker"
+    },
+    {
+      "filename" : "orange_leaf.sticker"
+    },
+    {
+      "filename" : "pumpkin.sticker"
+    },
+    {
+      "filename" : "red_berry.sticker"
+    },
+    {
+      "filename" : "pinecon_up.sticker"
+    },
+    {
+      "filename" : "pinecon_rotated.sticker"
+    },
+    {
+      "filename" : "snowflake.sticker"
+    },
+    {
+      "filename" : " right_santa.sticker"
+    },
+    {
+      "filename" : "left_santa.sticker"
+    },
+    {
+      "filename" : "thanksgiving1.sticker"
+    },
+    {
+      "filename" : "yellow_leaf.sticker"
+    },
+    {
+      "filename" : "green_leaf.sticker"
     }
   ],
   "info" : {
